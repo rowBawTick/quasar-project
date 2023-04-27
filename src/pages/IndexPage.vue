@@ -1,7 +1,7 @@
 <template>
   <q-btn color="orange-8" label="click-me"></q-btn>
-  <q-card>
-    <q-card-section>
+  <q-card class="">
+    <q-card-section class="bg-blue text-white">
       My Card
     </q-card-section>
     <q-card-section>
